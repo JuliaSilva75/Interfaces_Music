@@ -1,2 +1,2 @@
 # Interfaces_Music
-Interfaces Musicais Adaptadas para Diversos Dispositivos: Experiências Interativas e Imersivas com Acessibilidade Abrangente.
+Interfaces de um aplicativo Musical Adaptado para Diversos Dispositivos: Experiências Interativas e Imersivas com Acessibilidade Abrangente.
